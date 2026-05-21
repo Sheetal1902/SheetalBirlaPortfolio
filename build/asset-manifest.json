@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SheetalBirlaPortfolio/static/css/main.219be3e1.css",
+    "main.js": "/SheetalBirlaPortfolio/static/js/main.a66a710c.js",
+    "static/media/bootstrap-icons.woff?": "/SheetalBirlaPortfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/SheetalBirlaPortfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/SheetalBirlaPortfolio/index.html",
+    "main.219be3e1.css.map": "/SheetalBirlaPortfolio/static/css/main.219be3e1.css.map",
+    "main.a66a710c.js.map": "/SheetalBirlaPortfolio/static/js/main.a66a710c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219be3e1.css",
+    "static/js/main.a66a710c.js"
+  ]
+}
