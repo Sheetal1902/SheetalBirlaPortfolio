@@ -2,7 +2,7 @@
   "name": "sheetal-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Sheetal1902.github.io/SheetalBirlaPortfolio",
+  "homepage": "https://Sheetal1902.github.io/SheetalBirlaPortfolio/",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.11.3",
